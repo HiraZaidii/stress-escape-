@@ -89,18 +89,17 @@ Returning clients (returning-user)
 4. As a first time user, I want to get a feel of what to expect at the clinic
 
 #### Returning User
-5. As a returning user, I want to know the opening times
-6. As a returnign user, I want to know the opening times
-7. As a returning user, I want to find a phone number to call for information
-8. As a returning user, I want to see the treatments
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
-10. As a returning user, I want to find the clinic on social media
+5. As a returnign user, I want to know the opening times
+6. As a returning user, I want to find a phone number to call for information
+7. As a returning user, I want to see the treatments
+8. As a returning user, I want to leave some comment, suggestion or message to the staff
+9. As a returning user, I want to find the clinic on social media
 
 
 #### Site Owner 
-11. As the site owner, I want users to read about what we have to offer
-12. As the site owner, I want users to know the different type of treatments
-13. As the site owner, I want the users to be able to contact us
+10. As the site owner, I want users to read about what we have to offer
+11. As the site owner, I want users to know the different type of treatments
+12. As the site owner, I want the users to be able to contact us
 
 ## Design
 
