@@ -132,4 +132,6 @@ The website consists of 4 separate pages:
 ![Wireframe About](https://user-images.githubusercontent.com/98779723/159955295-72d3676d-308a-46a3-a554-ed6b49f5e620.png)
 
 <summary>Treatments</summary>
+![Wireframe Treatments](https://user-images.githubusercontent.com/98779723/159962253-115e7a95-5e74-42ca-bdcc-aea9626f2cd6.png)
+
 <summary>Contact Us</summary>
