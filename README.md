@@ -128,3 +128,7 @@ The website consists of 4 separate pages:
 <summary>Home</summary>
 
 ![Wireframe Home](https://user-images.githubusercontent.com/98779723/159943025-242b0994-36eb-4d9b-88fa-79ec4e0314c1.png)
+
+<summary>About</summary>
+<summary>Treatments</summary>
+<summary>Contact Us</summary>
