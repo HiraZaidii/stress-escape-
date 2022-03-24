@@ -125,7 +125,6 @@ The website consists of 4 separate pages:
 
 ### Wireframes
 
-<details><summary>Home</summary>
-![Wireframe Home](https://user-images.githubusercontent.com/98779723/159942794-3e894a27-e33b-4ab5-a4f2-c82aa1c52f5c.png)
+<summary>Home</summary>
 
-</details>
+![Wireframe Home](https://user-images.githubusercontent.com/98779723/159943025-242b0994-36eb-4d9b-88fa-79ec4e0314c1.png)
