@@ -101,3 +101,14 @@ Returning clients (returning-user)
 11. As the site owner, I want users to read about what we have to offer
 12. As the site owner, I want users to know the different type of treatments
 13. As the site owner, I want the users to be able to contact us
+
+## Design
+
+### Design Choices
+The webpage was designed to look calm and clear. This gives the (perhaps stressed) user the feeling that everything is well organized. 
+
+### Colour
+For the colour sheme warm brown tones were by contracting colors from the images using AdobeColor. Afterwards I used ColorSpace to select a matching pallete. To see what contrast matches best I used Eightshapes.
+
+![contrast](https://user-images.githubusercontent.com/98779723/159938189-da8435f1-b2ad-4150-b7f5-dba48ae9a5ba.PNG)
+
