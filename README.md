@@ -112,3 +112,13 @@ For the colour sheme warm brown tones were by contracting colors from the images
 
 ![contrast](https://user-images.githubusercontent.com/98779723/159938189-da8435f1-b2ad-4150-b7f5-dba48ae9a5ba.PNG)
 
+### Fonts
+Hubbali was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+
+### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with navigation bar on the right side and the logo on the left top.
+The website consists of 4 separate pages: 
+- A homepage with introduction on what the clinic does
+- An about page with information on the clinic
+- A page with the treatments 
+- A contact page with a contact form, a map and information about the bussines section
