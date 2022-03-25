@@ -140,3 +140,12 @@ The website consists of 4 separate pages:
 <summary>Contact Us</summary>
 
 ![Wireframe Contact](https://user-images.githubusercontent.com/98779723/160085054-eb1682e5-fe1d-4eab-a305-32633438abb5.png)
+
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
