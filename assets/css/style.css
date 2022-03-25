@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Hubballi:wght@100&display=swap');
 
 body {
     background-color: #a68572;
@@ -6,5 +6,58 @@ body {
 
 #logo {
     text-transform: uppercase;
+    font-size: 300%;
+}
+
+#menu,
+#logo {
+    line-height: 5px;
+}
+
+#logo {
+    float: left;
+    margin-left: 25px;
+    margin-top: 25px;
     font-size: 280%;
+    text-transform: uppercase;
+
+}
+
+
+#menu {
+    margin-top: 30px;
+    font-size: 125%;
+    text-transform: uppercase;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 10px;
+
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    color: whitesmoke;
+}
+
+#stress-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#stress-image {
+    background-image: url('..//therapy1.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    position: relative;
 }
