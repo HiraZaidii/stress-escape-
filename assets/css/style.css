@@ -81,25 +81,22 @@ body {
 
 footer {
     background-color: #6f4e37;
-    padding: 1em;
+    padding: 10px;
     text-align: center;
     width: 100%;
-    position: fixed;
     bottom: 0;
     right: 0;
     z-index: 3;
 }
 
+/* footer */
+
 footer>span {
-    font-size: 125%;
+    font-size: 170%;
     display: list-item;
+    list-style: none;
     text-align: center;
 
-}
-
-footer>a {
-    padding: 0 15px;
-    font-size: 0.8rem;
 }
 
 .social-networks {
@@ -108,17 +105,34 @@ footer>a {
 
 .social-networks>li {
     display: inline;
+    text-align: center;
+
 }
 
 .social-networks i {
     font-size: 160%;
     color: black;
+    padding: 9px;
+    align-items: center;
+}
 
-    padding: 4px;
+.social-networks span {
+    text-align: center;
 }
 
 /* about page */
 .about-box {
-    background: #bba79c;
+    background: #66958c;
     text-align: center;
+    padding: 50px;
+    padding-top: 15px;
+
+}
+
+.about-box h3 {
+    font-size: 280%;
+}
+
+.about-box p {
+    font-size: 150%;
 }
