@@ -104,7 +104,6 @@ body {
 /* treatment page*/
 #treatment-image {
     background-image: url('..//therapy11.jpeg');
-
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -121,21 +120,97 @@ body {
     position: relative;
 }
 
+#treat {
+    background: #bba79c;
+    text-align: center;
+    padding: 50px;
+    padding-top: 15px;
+
+}
+
+#treat h3 {
+    font-size: 280%;
+}
+
+#treat h4 {
+    font-size: 180%;
+    text-align: center;
+}
+
+#treat li {
+    font-size: 150%;
+    list-style: none;
+}
+
+#treat div {
+    margin-inline: 40px;
+    margin-top: -20px;
+}
+
+
+.tr-box {
+    display: inline-block;
+
+
+}
+
+#basic-box {
+    width: 250px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    color: white;
+    background-color: #a68572;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#plus-box {
+    width: 300px;
+    text-align: center;
+    height: 300px;
+    padding: 25px;
+    color: white;
+    background-color: #a68572;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+}
+
+#advance-box {
+    width: 300px;
+    text-align: center;
+    height: 300px;
+    padding: 25px;
+    color: white;
+    background-color: #a68572;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+}
+
+
+
+/* footer */
 
 footer {
-    background-color: #6f4e37;
+    background: #66958c;
     padding: 10px;
     text-align: center;
     width: 100%;
     bottom: 0;
     right: 0;
     z-index: 3;
-}
-
-/* footer */
-
-footer {
-    background: #66958c;
 }
 
 footer>span {
