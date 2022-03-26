@@ -149,3 +149,31 @@ The website consists of 4 separate pages:
 - CSS
 
 ### Frameworks & Tools
+
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- EighShapes
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awsome
+
+## Features
+The page consists of five pages and fourteen features
+
+### Logo and Navigation Bar
+- Featured on all five pages
+- The navbar is fully responsive and when you hover it highlight the button
+
+
+### Main picture
+- Different on each page
+- Relevant to the topic of the page
+
+
+### Introduction on Index page
+- 
+
+
