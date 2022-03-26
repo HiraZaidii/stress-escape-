@@ -101,6 +101,27 @@ body {
     font-size: 150%;
 }
 
+/* treatment page*/
+#treatment-image {
+    background-image: url('..//therapy11.jpeg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    position: relative;
+
+
+}
+
+#treatment-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
 footer {
     background-color: #6f4e37;
     padding: 10px;
