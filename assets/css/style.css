@@ -4,6 +4,7 @@ body {
     background-color: #a68572;
 }
 
+/* home page */
 #logo {
     text-transform: uppercase;
     font-size: 300%;
@@ -63,12 +64,17 @@ body {
     position: relative;
 }
 
+/* about page */
+
 #about-image {
-    background-image: url('..//therapy9.jpeg');
+    background-image: url('..//therapy5.webp');
+    padding: 200px 100px;
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
-    height: 900px;
+    height: 600px;
     position: relative;
+
 
 }
 
@@ -77,6 +83,22 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
+}
+
+.about-box {
+    background: #bba79c;
+    text-align: center;
+    padding: 50px;
+    padding-top: 15px;
+
+}
+
+.about-box h3 {
+    font-size: 280%;
+}
+
+.about-box p {
+    font-size: 150%;
 }
 
 footer {
@@ -90,6 +112,10 @@ footer {
 }
 
 /* footer */
+
+footer {
+    background: #66958c;
+}
 
 footer>span {
     font-size: 170%;
@@ -118,21 +144,4 @@ footer>span {
 
 .social-networks span {
     text-align: center;
-}
-
-/* about page */
-.about-box {
-    background: #66958c;
-    text-align: center;
-    padding: 50px;
-    padding-top: 15px;
-
-}
-
-.about-box h3 {
-    font-size: 280%;
-}
-
-.about-box p {
-    font-size: 150%;
 }
