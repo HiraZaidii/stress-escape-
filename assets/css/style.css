@@ -64,6 +64,33 @@ body {
     position: relative;
 }
 
+
+#info-box1,
+#info-box2 {
+    font-size: 150%;
+    text-align: center;
+}
+
+
+#info-box1 {
+    height: 200px;
+    background: #bba79c;
+    padding: 50px;
+    padding-top: 15px;
+
+
+}
+
+
+#info-box2 {
+    background-color: #a68572;
+    height: 125px;
+    padding: 50px;
+
+
+}
+
+
 /* about page */
 
 #about-image {
@@ -214,7 +241,7 @@ footer {
 }
 
 footer>span {
-    font-size: 170%;
+    font-size: 160%;
     display: list-item;
     list-style: none;
     text-align: center;
