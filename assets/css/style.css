@@ -78,3 +78,47 @@ body {
     overflow: hidden;
     position: relative;
 }
+
+footer {
+    background-color: #6f4e37;
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+}
+
+footer>span {
+    font-size: 125%;
+    display: list-item;
+    text-align: center;
+
+}
+
+footer>a {
+    padding: 0 15px;
+    font-size: 0.8rem;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    color: black;
+
+    padding: 4px;
+}
+
+/* about page */
+.about-box {
+    background: #bba79c;
+    text-align: center;
+}
