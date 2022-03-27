@@ -126,9 +126,11 @@ The website consists of 4 separate pages:
 
 <summary>Home</summary>
 
-![Wireframe Home](https://user-images.githubusercontent.com/98779723/159943025-242b0994-36eb-4d9b-88fa-79ec4e0314c1.png)
+![home1](https://user-images.githubusercontent.com/98779723/160282756-ad009e6e-554e-495d-8c9b-1a749bc5585e.png)
+
 
 <summary>About</summary>
+
 
 
 ![Wireframe About](https://user-images.githubusercontent.com/98779723/160086552-6f1e8970-e6c2-435d-ba69-0670ed0a2266.png)
@@ -139,7 +141,8 @@ The website consists of 4 separate pages:
 
 <summary>Contact Us</summary>
 
-![Wireframe Contact](https://user-images.githubusercontent.com/98779723/160085054-eb1682e5-fe1d-4eab-a305-32633438abb5.png)
+
+![contact](https://user-images.githubusercontent.com/98779723/160282729-5f5f695d-a580-4bc5-af4b-66ba396098f3.png)
 
 
 ## Technologies Used
