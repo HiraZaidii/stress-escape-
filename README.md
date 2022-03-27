@@ -169,14 +169,36 @@ The page consists of five pages and fourteen features
 ### Logo and Navigation Bar
 - Featured on all five pages
 - The navbar is fully responsive and when you hover it highlight the button
+![logo and navbar](https://user-images.githubusercontent.com/98779723/160284792-eb9aff62-ff33-4a2a-8edb-7089b4d189d4.PNG)
 
 
 ### Main picture
 - Different on each page
 - Relevant to the topic of the page
+![mainp1](https://user-images.githubusercontent.com/98779723/160284801-500d684e-abb6-42d5-9a6a-f7c55b8d3793.PNG)
+![mainp2](https://user-images.githubusercontent.com/98779723/160284802-8224d650-42cd-4c24-8004-e02c9a898b7d.PNG)
+![mainp3](https://user-images.githubusercontent.com/98779723/160284804-896b0498-f5ca-487e-a044-b9c4ca5f2d62.PNG)
+![mainp5](https://user-images.githubusercontent.com/98779723/160284807-6ac9b5c0-61fb-46ea-afc5-c3b536552564.PNG)
 
 
 ### Introduction on Index page
-- 
+-
+-
 
+![intro text](https://user-images.githubusercontent.com/98779723/160284877-020708e8-6bb2-4d7a-be6f-91a3d1b5abfa.PNG)
+
+### About
+- About information to explain more about the clinic
+![about text](https://user-images.githubusercontent.com/98779723/160284823-53957256-ae5e-4188-ab83-38e0a7908322.PNG)
+
+### Treatments
+-
+
+![treatment text](https://user-images.githubusercontent.com/98779723/160284892-2e8ff52c-c4ad-44da-ba20-34510026fe4c.PNG)
+
+### Contact us and Form
+-
+-
+
+![form](https://user-images.githubusercontent.com/98779723/160284938-89468e78-6c24-4d6e-ac74-75301ce92fca.PNG)
 
