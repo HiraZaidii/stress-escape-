@@ -202,3 +202,9 @@ The page consists of five pages and fourteen features
 
 ![form](https://user-images.githubusercontent.com/98779723/160284938-89468e78-6c24-4d6e-ac74-75301ce92fca.PNG)
 
+### Footer
+-
+-
+![footer](https://user-images.githubusercontent.com/98779723/160285883-6720c667-52f6-42c7-b0ef-b3dc2beaa327.PNG)
+
+
