@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Hubballi:wght@100&display=swap');
 
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     background-color: #a68572;
+    font-family: Hubbali;
+
 }
 
 /* home page */
@@ -86,6 +95,7 @@ body {
     background-color: #a68572;
     height: 125px;
     padding: 50px;
+    padding-top: 20px;
 
 
 }
@@ -305,9 +315,10 @@ body {
 
 footer {
     background: #66958c;
-    padding: 10px;
     text-align: center;
     width: 100%;
+    padding-top: 20px;
+    padding-bottom: 0%;
     bottom: 0;
     right: 0;
     z-index: 3;
@@ -315,6 +326,7 @@ footer {
 
 footer>span {
     font-size: 160%;
+    text-transform: uppercase;
     display: list-item;
     list-style: none;
     text-align: center;
@@ -340,4 +352,57 @@ footer>span {
 
 .social-networks span {
     text-align: center;
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+
+    }
+
+    #info-box1,
+    #info-box2 {
+        font-size: 100%;
+        text-align: center;
+    }
+
+    #info-box1 {
+        height: auto
+    }
+
+}
+
+/* For small screen sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+
+    #menu,
+    #logo {
+        line-height: normal;
+    }
+
+    #menu {
+        letter-spacing: 0.5px;
+        clear: center;
+        float: center;
+    }
+
+    #logo {
+        font-size: 28px;
+        margin-left: 15px;
+    }
+
+    #info-box1,
+    #info-box2 {
+        font-size: 70%;
+        text-align: center;
+    }
+
+    #info-box1 {
+        height: auto
+    }
 }
