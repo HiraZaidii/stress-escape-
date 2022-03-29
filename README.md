@@ -124,26 +124,27 @@ The website consists of 4 separate pages:
 
 ### Wireframes
 
-<summary>Home</summary>
+<details><summary>Home</summary>
+![New Wireframe 1 (1)](https://user-images.githubusercontent.com/98779723/160601943-af81435d-c732-45f2-b6ec-864a2a0dfc67.png)
 
-![home1](https://user-images.githubusercontent.com/98779723/160282756-ad009e6e-554e-495d-8c9b-1a749bc5585e.png)
+</details
+
+<details><summary>Gallery</summary>
+![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160602019-b1cc953b-e8db-4e1e-990f-010e17243fd2.png)
+
+</details>
 
 
-<summary>About</summary>
-
-
-
-![Wireframe About](https://user-images.githubusercontent.com/98779723/160086552-6f1e8970-e6c2-435d-ba69-0670ed0a2266.png)
-
-<summary>Treatments</summary>
+<details><summary>Treatments</summary>
 
 ![Wireframe Treatments](https://user-images.githubusercontent.com/98779723/160085365-e2a68c18-9d70-44fd-97a3-caf357d4bfe3.png)
+    </details>
 
-<summary>Contact Us</summary>
+<details><summary>Contact Us</summary>
 
 
 ![contact](https://user-images.githubusercontent.com/98779723/160282729-5f5f695d-a580-4bc5-af4b-66ba396098f3.png)
-
+</details>
 
 ## Technologies Used
 
@@ -182,14 +183,15 @@ The page consists of five pages and fourteen features
 
 
 ### Introduction on Index page
--
--
+- Information about the Clinic
+- Link to gallery page
+- map
 
-![intro text](https://user-images.githubusercontent.com/98779723/160284877-020708e8-6bb2-4d7a-be6f-91a3d1b5abfa.PNG)
 
-### About
-- About information to explain more about the clinic
-![about text](https://user-images.githubusercontent.com/98779723/160284823-53957256-ae5e-4188-ab83-38e0a7908322.PNG)
+
+### Gallery
+- Images that display an impression of the clinic
+
 
 ### Treatments
 -
