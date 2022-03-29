@@ -107,8 +107,8 @@ body {
 
 /* map */
 #map-wrapper {
-
     height: 300px;
+    width: 100%;
 
 }
 
@@ -443,6 +443,7 @@ footer>span {
 
     #treat {
         display: inline-table;
+        padding: 0;
     }
 
 
@@ -458,6 +459,8 @@ footer>span {
 
     }
 
+
+
     #treat div {
         margin-inline: 0px;
         margin-top: 0px;
@@ -466,7 +469,11 @@ footer>span {
     }
 
     #treat li {
-
         text-align: left;
     }
+
+    #footer {
+        font-size: 75%;
+    }
+
 }
