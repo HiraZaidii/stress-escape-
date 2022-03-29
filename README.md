@@ -45,6 +45,7 @@
 •	Find a treatment session according to their needs
 •	Find the location and contact details of the clinic
 •	Be able to provide feedback via the form
+•	Get an impression of the clinic
 
 
 ### Site Owner Goals
@@ -86,7 +87,7 @@ Returning clients (returning-user)
 1. As a first time user, I want to know where the clinic is located
 2. As a first time user, I want to know about the treatments
 3. As a first time user, I want to know more about clinic
-4. As a first time user, I want to get a feel of what to expect at the clinic
+4. As a first time user, I want to get an impression of what the clinic looks like
 
 #### Returning User
 5. As a returnign user, I want to know the opening times
@@ -124,26 +125,28 @@ The website consists of 4 separate pages:
 
 ### Wireframes
 
-<summary>Home</summary>
+<details><summary>Home</summary>
 
-![home1](https://user-images.githubusercontent.com/98779723/160282756-ad009e6e-554e-495d-8c9b-1a749bc5585e.png)
+![New Wireframe 1 (1)](https://user-images.githubusercontent.com/98779723/160602770-b03e334c-c383-4dad-98b5-44f79abfdc1f.png)
 
+</details
 
-<summary>About</summary>
+<details><summary>Gallery</summary>
+    
+![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160605947-e7d5b035-c68a-4b9e-bccc-43e15a820782.png)
 
+</details>
 
-
-![Wireframe About](https://user-images.githubusercontent.com/98779723/160086552-6f1e8970-e6c2-435d-ba69-0670ed0a2266.png)
-
-<summary>Treatments</summary>
+<details><summary>Treatments</summary>
 
 ![Wireframe Treatments](https://user-images.githubusercontent.com/98779723/160085365-e2a68c18-9d70-44fd-97a3-caf357d4bfe3.png)
+    </details>
 
-<summary>Contact Us</summary>
+<details><summary>Contact Us</summary>
 
 
 ![contact](https://user-images.githubusercontent.com/98779723/160282729-5f5f695d-a580-4bc5-af4b-66ba396098f3.png)
-
+</details>
 
 ## Technologies Used
 
@@ -164,7 +167,7 @@ The website consists of 4 separate pages:
 - Font Awsome
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of four pages and fourteen features
 
 ### Logo and Navigation Bar
 - Featured on all five pages
@@ -182,14 +185,18 @@ The page consists of five pages and fourteen features
 
 
 ### Introduction on Index page
--
--
+- Information about the Clinic
+- Link to gallery page
 
-![intro text](https://user-images.githubusercontent.com/98779723/160284877-020708e8-6bb2-4d7a-be6f-91a3d1b5abfa.PNG)
 
-### About
-- About information to explain more about the clinic
-![about text](https://user-images.githubusercontent.com/98779723/160284823-53957256-ae5e-4188-ab83-38e0a7908322.PNG)
+### Map
+- User stories
+![map](https://user-images.githubusercontent.com/98779723/160604981-31b98bf3-876d-4775-a742-8f7647ffb75a.PNG)
+
+
+### Gallery
+- Images that display an impression of the clinic
+
 
 ### Treatments
 -
@@ -206,5 +213,67 @@ The page consists of five pages and fourteen features
 -
 -
 ![footer](https://user-images.githubusercontent.com/98779723/160285883-6720c667-52f6-42c7-b0ef-b3dc2beaa327.PNG)
+
+
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>    
+   
+</details>
+<details><summary>Contact</summary>
+
+</details>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+
+<details><summary>whole page</summary>
+
+</details>
+<details><summary>style.css</summary>
+
+</details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>
+
+</details>
+<details><summary>Contact</summary>
+
+</details>
+
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>
+
+</details>
+
+<details><summary>Contact</summary>
+
+</details>
+
 
 
