@@ -184,8 +184,6 @@ body {
 
 .tr-box {
     display: inline-block;
-
-
 }
 
 #basic-box {
@@ -352,4 +350,123 @@ footer>span {
 
 .social-networks span {
     text-align: center;
+}
+
+@media (max-device-width: 1095px)
+
+/*index page*/
+    {
+
+    #menu,
+    #logo {
+        line-height: 30px;
+    }
+
+    #menu li {
+        display: list-item;
+    }
+
+    #info-box2,
+    #info-box1 {
+        font-size: 145%;
+        padding-top: 2px;
+
+    }
+
+    #info-box2 {
+        height: 160px
+    }
+}
+
+
+
+
+@media (max-device-width: 885px) {
+
+    #info-box2,
+    #info-box1 {
+        height: 250px;
+    }
+
+    #logo {
+        padding-top: 2px;
+    }
+
+    #menu {
+        padding-top: 15px;
+
+    }
+
+    #menu li,
+    #logo {
+        display: list-item;
+        list-style: none;
+        float: none;
+
+    }
+}
+
+@media (max-device-width: 660px) {
+
+    #info-box2,
+    #info-box1 {
+        height: 400px;
+    }
+}
+
+@media (max-device-width: 320px) {
+
+    #info-box2,
+    #info-box1 {
+        height: 500px;
+        font-size: 120%;
+    }
+
+    #logo {
+        font-size: 200%;
+    }
+
+    #footer {
+        font-size: 80%;
+    }
+
+    #stress-image {
+        height: 200px;
+
+    }
+
+    #stress-outer {
+        height: 200px;
+    }
+
+    /* treatment */
+
+    #treat {
+        display: inline-table;
+    }
+
+
+    .tr-box {
+        font-size: 60%;
+    }
+
+    #advance-box,
+    #basic-box,
+    #plus-box {
+        height: 150px;
+        width: 150px;
+
+    }
+
+    #treat div {
+        margin-inline: 0px;
+        margin-top: 0px;
+        font-size: 50%;
+        text-align: center;
+    }
+
+    #treat li {
+
+        text-align: left;
+    }
 }
