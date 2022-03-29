@@ -132,6 +132,7 @@ The website consists of 4 separate pages:
 </details
 
 <details><summary>Gallery</summary>
+    
 ![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160605947-e7d5b035-c68a-4b9e-bccc-43e15a820782.png)
 
 </details>
