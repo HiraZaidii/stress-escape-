@@ -45,6 +45,7 @@
 •	Find a treatment session according to their needs
 •	Find the location and contact details of the clinic
 •	Be able to provide feedback via the form
+•	Get an impression of the clinic
 
 
 ### Site Owner Goals
@@ -86,7 +87,7 @@ Returning clients (returning-user)
 1. As a first time user, I want to know where the clinic is located
 2. As a first time user, I want to know about the treatments
 3. As a first time user, I want to know more about clinic
-4. As a first time user, I want to get a feel of what to expect at the clinic
+4. As a first time user, I want to get an impression of what the clinic looks like
 
 #### Returning User
 5. As a returnign user, I want to know the opening times
@@ -130,12 +131,11 @@ The website consists of 4 separate pages:
 
 </details
 
-<details><summary>Gallery</summary>
+<details><summary> Gallery</summary>
 
     ![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160602810-3bd54ed0-5976-4059-af4a-60afc2217ebf.png)
 
 </details>
-
 
 <details><summary>Treatments</summary>
 
@@ -167,7 +167,7 @@ The website consists of 4 separate pages:
 - Font Awsome
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of four pages and fourteen features
 
 ### Logo and Navigation Bar
 - Featured on all five pages
@@ -187,8 +187,10 @@ The page consists of five pages and fourteen features
 ### Introduction on Index page
 - Information about the Clinic
 - Link to gallery page
-- map
 
+
+### Map
+- User stories
 
 
 ### Gallery
