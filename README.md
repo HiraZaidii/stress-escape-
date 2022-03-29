@@ -131,9 +131,8 @@ The website consists of 4 separate pages:
 
 </details
 
-<details><summary> Gallery</summary>
-
-    ![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160602810-3bd54ed0-5976-4059-af4a-60afc2217ebf.png)
+<details><summary>Gallery</summary>
+![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160605947-e7d5b035-c68a-4b9e-bccc-43e15a820782.png)
 
 </details>
 
@@ -213,5 +212,67 @@ The page consists of four pages and fourteen features
 -
 -
 ![footer](https://user-images.githubusercontent.com/98779723/160285883-6720c667-52f6-42c7-b0ef-b3dc2beaa327.PNG)
+
+
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>    
+   
+</details>
+<details><summary>Contact</summary>
+
+</details>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+
+<details><summary>whole page</summary>
+
+</details>
+<details><summary>style.css</summary>
+
+</details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>
+
+</details>
+<details><summary>Contact</summary>
+
+</details>
+
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+
+</details>
+<details><summary>Gallery</summary>
+
+</details>
+<details><summary>Treatment</summary>
+
+</details>
+
+<details><summary>Contact</summary>
+
+</details>
+
 
 
