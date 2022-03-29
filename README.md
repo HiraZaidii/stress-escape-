@@ -191,6 +191,7 @@ The page consists of four pages and fourteen features
 
 ### Map
 - User stories
+![map](https://user-images.githubusercontent.com/98779723/160604981-31b98bf3-876d-4775-a742-8f7647ffb75a.PNG)
 
 
 ### Gallery
