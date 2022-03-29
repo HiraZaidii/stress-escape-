@@ -352,7 +352,7 @@ footer>span {
     text-align: center;
 }
 
-@media (max-device-width: 1095px)
+@media (max-width: 1095px)
 
 /*index page*/
     {
@@ -381,7 +381,7 @@ footer>span {
 
 
 
-@media (max-device-width: 885px) {
+@media (max-width: 885px) {
 
     #info-box2,
     #info-box1 {
@@ -406,7 +406,7 @@ footer>span {
     }
 }
 
-@media (max-device-width: 660px) {
+@media (max-width: 660px) {
 
     #info-box2,
     #info-box1 {
@@ -414,7 +414,7 @@ footer>span {
     }
 }
 
-@media (max-device-width: 320px) {
+@media (max-width: 320px) {
 
     #info-box2,
     #info-box1 {
