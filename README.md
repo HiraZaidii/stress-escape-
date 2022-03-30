@@ -282,6 +282,8 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 </details>
 <details><summary>Treatment</summary>
+    
+![lhtreat](https://user-images.githubusercontent.com/98779723/160801421-71df8e17-c16f-432d-991f-5364ebeeec59.PNG)
 
 </details>
 
@@ -314,6 +316,7 @@ The website was tested on the following browsers:
 | Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
 
 <details><summary>Screenshots</summary>
+![story9](https://user-images.githubusercontent.com/98779723/160803606-101134b8-4e02-43e2-9730-2413682d97b3.PNG)
 
 </details>
 2. As a first time user, I want to know about the treatments
@@ -323,6 +326,8 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected |
 
 <details><summary>Screenshots</summary>
+
+![story2](https://user-images.githubusercontent.com/98779723/160803650-7784e8b2-7199-4d54-a046-9a185c3b6c23.PNG)
 
 </details>
 
@@ -334,6 +339,8 @@ The website was tested on the following browsers:
 | Gallery | Click on Gallery in menu bar | View clinic images | Works as expected | 
 
 <details><summary>Screenshots</summary>
+![story3](https://user-images.githubusercontent.com/98779723/160803718-0dd39bb0-e46a-4b05-9546-23ae47e58903.PNG)
+![story1](https://user-images.githubusercontent.com/98779723/160803723-79fe8bc8-2d50-4848-b7a8-08bd9578cfbc.PNG)
 
 </details>
 
@@ -345,6 +352,9 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 
+![story3](https://user-images.githubusercontent.com/98779723/160803780-062dcb2c-b4a2-4cc9-8d90-e575a3978157.PNG)
+![story1](https://user-images.githubusercontent.com/98779723/160803782-3699c02b-378b-41c9-8fb0-0283fc247a69.PNG)
+
 </details>
 
 5. As a first time user, I want to be able to sign up for the clinic
@@ -355,16 +365,18 @@ The website was tested on the following browsers:
 | Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
 
 <details><summary>Screenshots</summary>
+![story5](https://user-images.githubusercontent.com/98779723/160803825-c2ba9587-8136-40f3-937e-baa89942c8e8.PNG)
 
 </details>
 
-6. As a returnign user, I want to know the opening times
+6. As a returning user, I want to know the opening times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer - opening times section | Scroll to the footer from any page | See opening times | Works as expected |
 
 <details><summary>Screenshots</summary>
+![story6](https://user-images.githubusercontent.com/98779723/160803993-c7f1092a-11df-42c1-a5a8-1ba7b4c0c057.PNG)
 
 </details>
 
@@ -376,6 +388,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Screenshots</summary>
+![story7](https://user-images.githubusercontent.com/98779723/160804058-7adbf06b-c63b-4134-b656-deeb0d04c90d.PNG)
 
 </details>
 
@@ -386,6 +399,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected ||
 
 <details><summary>Screenshots</summary>
+![story2](https://user-images.githubusercontent.com/98779723/160804117-909fe6bc-0b9f-4fbc-a337-73f59a148b02.PNG)
 
 </details>
 
@@ -396,6 +410,7 @@ The website was tested on the following browsers:
 | Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
 
 <details><summary>Screenshots</summary>
+![story5](https://user-images.githubusercontent.com/98779723/160804182-34cfaab1-8edc-4943-a62b-e43b749aad41.PNG)
 
 </details>
 
@@ -406,6 +421,7 @@ The website was tested on the following browsers:
 | Footer  | Scroll down on any page | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
+![story8](https://user-images.githubusercontent.com/98779723/160802830-536989db-143a-429a-a34a-9ec663654a9c.PNG)
 
 </details>
 
@@ -416,7 +432,9 @@ The website was tested on the following browsers:
 | Intro on main page | Scroll down on main page | Read introduction | Works as expected |
 
 
-<details><summary>Screenshots</summary>
+<details>
+<summary>Screenshots</summary>
+![story2](https://user-images.githubusercontent.com/98779723/160803254-6f2b763a-328a-4b7a-8cc7-813d53030d41.PNG)
 
 </details>
 
@@ -425,6 +443,9 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected |
 
 <details><summary>Screenshots</summary>
+
+![story8](https://user-images.githubusercontent.com/98779723/160804312-052cec3b-11d9-4464-bcc5-eb1aae8036da.PNG)
+
 
 </details>
 
@@ -436,4 +457,8 @@ The website was tested on the following browsers:
 | Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location | Works as expected |
 | Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
 
+<details><summary>Screenshots</summary>
 
+![story9](https://user-images.githubusercontent.com/98779723/160803158-28c2150a-5905-4b1a-8f34-7f79a8165193.PNG)
+
+</details>
