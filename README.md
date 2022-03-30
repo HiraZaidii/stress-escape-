@@ -132,6 +132,11 @@ The website consists of 4 separate pages:
 ![New Wireframe 1 (1)](https://user-images.githubusercontent.com/98779723/160602770-b03e334c-c383-4dad-98b5-44f79abfdc1f.png)
 
 </details>
+<details><summary>Gallery</summary>
+
+![New Wireframe 2](https://user-images.githubusercontent.com/98779723/160795492-4bf65751-47e6-4675-805e-09cedca48da6.png)
+
+</details>
 
 <details><summary>Treatments</summary>
 
