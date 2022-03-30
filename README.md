@@ -169,7 +169,7 @@ The website consists of 4 separate pages:
 - Font Awsome
 
 ## Features
-The page consists of four pages and 8 features
+The page consists of 4 pages and 8 features
 
 ### Logo and Navigation Bar
 - Featured on all the pages
