@@ -220,41 +220,45 @@ The page consists of four pages and fourteen features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
+![htmlindex](https://user-images.githubusercontent.com/98779723/160773026-3516ab65-70be-4601-9189-9eaec50518a0.PNG)
 
 </details>
 <details><summary>Gallery</summary>
+![htmlgallery](https://user-images.githubusercontent.com/98779723/160773053-c8dfa194-b28d-4ab5-b1ed-dfb37edeed01.PNG)
 
 </details>
 <details><summary>Treatment</summary>    
-   
+   ![htmltreat](https://user-images.githubusercontent.com/98779723/160773088-31d4a04e-771c-411b-8453-56133ed7c2f6.PNG)
+
 </details>
 <details><summary>Contact</summary>
+![html contact](https://user-images.githubusercontent.com/98779723/160773113-867049b2-59bc-458a-992c-ec97f6731cd8.PNG)
 
 </details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
-
-<details><summary>whole page</summary>
-
-</details>
 <details><summary>style.css</summary>
+![cssjigsaw](https://user-images.githubusercontent.com/98779723/160773318-48e23713-fa54-4a1a-a6e6-c276f14b7984.PNG)
 
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
+![waveindex](https://user-images.githubusercontent.com/98779723/160773391-3ecacb1f-991d-424c-9be1-113ad67b5f4c.PNG)
 
 </details>
 <details><summary>Gallery</summary>
+![wavegallery](https://user-images.githubusercontent.com/98779723/160773418-76123761-2f11-4746-ae14-18d76522b4d3.PNG)
 
 </details>
 <details><summary>Treatment</summary>
+![wavetreat](https://user-images.githubusercontent.com/98779723/160773442-0677920c-d006-4ab5-9aa6-8d54f841d6ee.PNG)
 
 </details>
 <details><summary>Contact</summary>
+![wavecontact](https://user-images.githubusercontent.com/98779723/160773451-f0ba124c-262b-46fe-955c-b9cee6a2aca7.PNG)
 
 </details>
 
@@ -262,9 +266,11 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
+![lhhome](https://user-images.githubusercontent.com/98779723/160773488-2fdaf42a-29c2-4335-ab55-8c3b45f1c173.PNG)
 
 </details>
 <details><summary>Gallery</summary>
+![lhgallery](https://user-images.githubusercontent.com/98779723/160773544-9007d25e-bfce-44ff-9ce8-211f19a0ce79.PNG)
 
 </details>
 <details><summary>Treatment</summary>
@@ -272,6 +278,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 
 <details><summary>Contact</summary>
+![lhcontact](https://user-images.githubusercontent.com/98779723/160773557-4f75cd0e-d180-4ab3-8c66-ed73b85b250e.PNG)
 
 </details>
 
