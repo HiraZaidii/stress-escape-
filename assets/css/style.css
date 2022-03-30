@@ -6,14 +6,12 @@ html {
     scroll-behavior: smooth;
 }
 
-
 body {
     background-color: #a68572;
     font-family: Hubbali;
-
 }
 
-/* home page */
+/* header and menu styled for all pages*/
 #logo {
     text-transform: uppercase;
     font-size: 300%;
@@ -30,7 +28,6 @@ body {
     margin-top: 25px;
     font-size: 280%;
     text-transform: uppercase;
-
 }
 
 
@@ -38,15 +35,12 @@ body {
     margin-top: 30px;
     font-size: 150%;
     text-transform: uppercase;
-
-
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 10px;
-
 }
 
 #menu a {
@@ -58,6 +52,8 @@ body {
     color: whitesmoke;
 }
 
+/* background image main page*/
+
 #stress-outer {
     height: 600px;
     width: 100%;
@@ -66,30 +62,26 @@ body {
 }
 
 #stress-image {
-    background-image: url('..//therapy1.jpeg');
+    background-image: url('../images/therapy1.jpeg');
     background-size: cover;
     background-position: center;
     height: 900px;
     position: relative;
 }
 
-
+/* introduction text styled with different color backgrounds*/
 #info-box1,
 #info-box2 {
     font-size: 150%;
     text-align: center;
 }
 
-
 #info-box1 {
     height: 200px;
     background: #bba79c;
     padding: 50px;
     padding-top: 15px;
-
-
 }
-
 
 #info-box2 {
     background-color: #a68572;
@@ -97,7 +89,6 @@ body {
     padding: 50px;
     padding-top: 20px;
     padding-bottom: 80px;
-
 }
 
 #info-box2 a {
@@ -105,11 +96,10 @@ body {
     font-size: 80%;
 }
 
-/* map */
+/* map on top of footer*/
 #map-wrapper {
     height: 300px;
     width: 100%;
-
 }
 
 #map {
@@ -118,32 +108,27 @@ body {
     border: none;
 }
 
-
-/*gallery*/
+/*gallery page with 6 pictures*/
 
 #photos {
     clear: both;
     line-height: 0;
     column-count: 2;
     column-gap: 0;
-
 }
 
 #photos>img {
     width: 100%;
 }
 
-
-/* treatment page*/
+/* treatment page with 3 different sections for 3 treatments displayed inline in discs*/
 #treatment-image {
-    background-image: url('..//therapy11.jpeg');
+    background-image: url('../images/therapy11.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 600px;
     position: relative;
-
-
 }
 
 #treatment-outer {
@@ -158,8 +143,6 @@ body {
     text-align: center;
     padding: 50px;
     padding-top: 15px;
-
-
 }
 
 #treat h3 {
@@ -198,7 +181,6 @@ body {
     border-color: black;
     border-width: 2px;
     border-radius: 50%;
-
 }
 
 #plus-box {
@@ -212,8 +194,6 @@ body {
     border-color: black;
     border-width: 2px;
     border-radius: 50%;
-
-
 }
 
 #advance-box {
@@ -227,21 +207,17 @@ body {
     border-color: black;
     border-width: 2px;
     border-radius: 50%;
-
-
 }
 
 /* contact page */
 
 #contact-image {
-    background-image: url('../therapy13.jpeg');
+    background-image: url('../images/therapy13.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 600px;
     position: relative;
-
-
 }
 
 #contact-outer {
@@ -259,6 +235,7 @@ body {
     padding-top: 15px;
 }
 
+/*form to sign up */
 .formpic {
     background-size: cover;
     width: 100%;
@@ -273,7 +250,6 @@ body {
     position: absolute;
     left: 10%;
     padding: 30px;
-
 }
 
 .signup-form>h2 {
@@ -309,7 +285,7 @@ body {
     color: #66958c;
 }
 
-/* footer */
+/* footer designed for each page */
 
 footer {
     background: #66958c;
@@ -328,7 +304,6 @@ footer>span {
     display: list-item;
     list-style: none;
     text-align: center;
-
 }
 
 .social-networks {
@@ -378,9 +353,7 @@ footer>span {
     }
 }
 
-
-
-
+/*changing the style for different devices*/
 @media (max-width: 885px) {
 
     #info-box2,
@@ -394,7 +367,6 @@ footer>span {
 
     #menu {
         padding-top: 15px;
-
     }
 
     #menu li,
@@ -402,7 +374,6 @@ footer>span {
         display: list-item;
         list-style: none;
         float: none;
-
     }
 }
 
@@ -411,6 +382,10 @@ footer>span {
     #info-box2,
     #info-box1 {
         height: 400px;
+    }
+
+    img.formpic {
+        display: none;
     }
 }
 
@@ -456,7 +431,6 @@ footer>span {
         padding: 0;
     }
 
-
     .tr-box {
         font-size: 80%;
     }
@@ -466,10 +440,7 @@ footer>span {
     #plus-box {
         height: 150px;
         width: 150px;
-
     }
-
-
 
     #treat div {
         margin-inline: 0px;
@@ -482,12 +453,19 @@ footer>span {
         text-align: left;
     }
 
+    img.formpic {
+        display: none;
+    }
+
     #footer {
         font-size: 75%;
     }
 
+
 }
 
+
+/* for devices such as iphone 5*/
 @media (max-width: 320px) {
 
     #info-box2,
@@ -506,7 +484,6 @@ footer>span {
 
     #stress-image {
         height: 200px;
-
     }
 
     #stress-outer {
@@ -514,7 +491,6 @@ footer>span {
     }
 
     /* treatment */
-
     #treat {
         display: inline-table;
         padding: 0;
@@ -533,8 +509,6 @@ footer>span {
 
     }
 
-
-
     #treat div {
         margin-inline: 0px;
         margin-top: 0px;
@@ -545,6 +519,11 @@ footer>span {
     #treat li {
         text-align: left;
     }
+
+    img.formpic {
+        display: none;
+    }
+
 
     #footer {
         font-size: 75%;
