@@ -506,6 +506,7 @@ You can clone the repository by following these steps:
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
+- My husband Shahbaz for his support through out my stress moments.
 - My mentor Mo Shami for his feedback, advice, guidance and support.
 - The Code Institute slack community of students and alumni for their helpful advice, resources, guidance and support.
 
