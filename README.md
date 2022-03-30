@@ -302,6 +302,7 @@ In addition, the website was tested using Google Chrome Developer Tools Device T
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
+- Mozilla Firefox
 
 
 ### Testing user stories
