@@ -237,7 +237,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 </details>
 <details><summary>Treatment</summary>    
-   ![htmltreat](https://user-images.githubusercontent.com/98779723/160773088-31d4a04e-771c-411b-8453-56133ed7c2f6.PNG)
+![htmltreat](https://user-images.githubusercontent.com/98779723/160773088-31d4a04e-771c-411b-8453-56133ed7c2f6.PNG)
 
 </details>
 <details><summary>Contact</summary>
