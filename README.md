@@ -101,7 +101,7 @@ Returning clients (returning-user)
 #### Site Owner 
 11. As the site owner, I want users to read about what we have to offer
 12. As the site owner, I want users to know the different type of treatments
-13. As the site owner, I want the users to be able to contact us
+13. As the site owner, I want the users to be able to contact us and be able to see our location and opening times
 
 ## Design
 
@@ -168,7 +168,7 @@ The website consists of 4 separate pages:
 - Font Awsome
 
 ## Features
-The page consists of four pages and fourteen features
+The page consists of four pages and 8 features
 
 ### Logo and Navigation Bar
 - Featured on all the pages
@@ -217,6 +217,7 @@ The page consists of four pages and fourteen features
 ![form](https://user-images.githubusercontent.com/98779723/160284938-89468e78-6c24-4d6e-ac74-75301ce92fca.PNG)
 
 ### Footer
+- Available on the bottom of each page
 - Provides adress, opening timings and phone number of the Clinic
 - User stories 1, 6, 7, 10
 ![footer](https://user-images.githubusercontent.com/98779723/160285883-6720c667-52f6-42c7-b0ef-b3dc2beaa327.PNG)
@@ -289,5 +290,151 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 </details>
 
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Lenovo Yoga 2 Pro (both in pc and tablet mode)
+- Honor 20 pro
+- Xiaomi Redmi Note 7
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+
+### Testing user stories
+
+1. As a first time user, I want to know where the clinic is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+2. As a first time user, I want to know about the treatments
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to Treatments | Read info about treatments | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+3. As a first time user, I want to know more about clinic
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Intro on main page | Scroll down on main page | Read introduction | Works as expected |
+| Gallery | Click on Gallery in menu bar | View clinic images | Works as expected | 
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+4. As a first time user, I want to get an impression of what the clinic looks like
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Click on Gallery in menu bar | View clinic images | Works as expected | 
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+5. As a first time user, I want to be able to sign up for the clinic
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+6. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | Scroll to the footer from any page | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+7. As a returning user, I want to find a phone number to call for information
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | Scroll to the footer from any page | See phone number | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+8. As a returning user, I want to see the treatments
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to Treatments | Read info about treatments | Works as expected ||
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+9. As a returning user, I want to be able to sign up 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+10. As a returning user, I want to find the clinic on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer  | Scroll down on any page | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+11. As the site owner, I want users to read about what we have to offer
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Intro on main page | Scroll down on main page | Read introduction | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+12. As the site owner, I want users to know the different type of treatments
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu | Navigate to Treatments | Read info about treatments | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+13. As the site owner, I want the users to be able to contact us and be able to see our location and opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - opening times section | Scroll to the footer from any page | See phone number | Works as expected |
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
 
 
