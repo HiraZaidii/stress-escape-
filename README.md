@@ -103,6 +103,7 @@ Returning clients (returning-user)
 11. As the site owner, I want users to read about what we have to offer
 12. As the site owner, I want users to know the different type of treatments
 13. As the site owner, I want the users to be able to contact us and be able to see our location and opening times
+14. As the site owner, I want the users to be able to see header and footer in case of 404 error
 
 ## Design
 
@@ -166,6 +167,7 @@ The website consists of 4 separate pages:
 - Google Fonts
 - Adobe Color
 - Font Awsome
+- Favicon
 
 ## Features
 The page consists of 4 pages and 8 features
@@ -461,3 +463,49 @@ The website was tested on the following browsers:
 ![story9](https://user-images.githubusercontent.com/98779723/160803158-28c2150a-5905-4b1a-8f34-7f79a8165193.PNG)
 
 </details>
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Sign up form does not look on smaller devices | Change display to none as without a background looks clear on smaller devices |
+| Navbar divides into two rows on smaller screen | Add media query to display in list
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: main
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying:  Your site is published at https://hirazaidii.github.io/stress-escape-/
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7.Press Enter to create your local clone.
+
+## Credits
+
+### Code
+- Code Institute Slack Community
+- LMS Love Running project
+- LMS Coders Coffeehouse project
+- MDN webdocs
+- Dani Krossing youtube tutorials
+
+### Media
+- Pexels
+- Unsplash
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Mo Shami for his feedback, advice, guidance and support.
+- The Code Institute slack community of students and alumni for their helpful advice, resources, guidance and support.
+
