@@ -88,19 +88,20 @@ Returning clients (returning-user)
 2. As a first time user, I want to know about the treatments
 3. As a first time user, I want to know more about clinic
 4. As a first time user, I want to get an impression of what the clinic looks like
+5. As a first time user, I want to be able to sign up for the clinic
 
 #### Returning User
-5. As a returnign user, I want to know the opening times
-6. As a returning user, I want to find a phone number to call for information
-7. As a returning user, I want to see the treatments
-8. As a returning user, I want to leave some comment, suggestion or message to the staff
-9. As a returning user, I want to find the clinic on social media
+6. As a returnign user, I want to know the opening times
+7. As a returning user, I want to find a phone number to call for information
+8. As a returning user, I want to see the treatments
+9. As a returning user, I want to be able to sign up 
+10. As a returning user, I want to find the clinic on social media
 
 
 #### Site Owner 
-10. As the site owner, I want users to read about what we have to offer
-11. As the site owner, I want users to know the different type of treatments
-12. As the site owner, I want the users to be able to contact us
+11. As the site owner, I want users to read about what we have to offer
+12. As the site owner, I want users to know the different type of treatments
+13. As the site owner, I want the users to be able to contact us
 
 ## Design
 
@@ -170,8 +171,9 @@ The website consists of 4 separate pages:
 The page consists of four pages and fourteen features
 
 ### Logo and Navigation Bar
-- Featured on all five pages
+- Featured on all the pages
 - The navbar is fully responsive and when you hover it highlight the button
+- User stories 2, 3, 4, 5, 8, 9
 ![logo and navbar](https://user-images.githubusercontent.com/98779723/160284792-eb9aff62-ff33-4a2a-8edb-7089b4d189d4.PNG)
 
 
@@ -187,31 +189,36 @@ The page consists of four pages and fourteen features
 ### Introduction on Index page
 - Information about the Clinic
 - Link to gallery page
+- User stories 3, 4
 
 
 ### Map
-- User stories
+- Location of the clinic
+- User stories 1
 ![map](https://user-images.githubusercontent.com/98779723/160604981-31b98bf3-876d-4775-a742-8f7647ffb75a.PNG)
 
 
 ### Gallery
 - Images that display an impression of the clinic
+- User stories 3, 4
 
 
 ### Treatments
--
+- Information on the 3 types of treatments that the clinic provides
+- User stories 2, 3, 8
 
 ![treatment text](https://user-images.githubusercontent.com/98779723/160284892-2e8ff52c-c4ad-44da-ba20-34510026fe4c.PNG)
 
 ### Contact us and Form
--
--
+- Information on form and options   
+- Form that requires details
+- User stories 5, 9
 
 ![form](https://user-images.githubusercontent.com/98779723/160284938-89468e78-6c24-4d6e-ac74-75301ce92fca.PNG)
 
 ### Footer
--
--
+- Provides adress, opening timings and phone number of the Clinic
+- User stories 1, 6, 7, 10
 ![footer](https://user-images.githubusercontent.com/98779723/160285883-6720c667-52f6-42c7-b0ef-b3dc2beaa327.PNG)
 
 
