@@ -294,9 +294,8 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
-- Lenovo Yoga 2 Pro (both in pc and tablet mode)
-- Honor 20 pro
-- Xiaomi Redmi Note 7
+- Iphone 12 pro max
+- Iphone 13 pro max
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
@@ -304,7 +303,7 @@ In addition, the website was tested using Google Chrome Developer Tools Device T
 The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
-- Microsoft Egde
+
 
 ### Testing user stories
 
