@@ -231,20 +231,16 @@ The page consists of 4 pages and 8 features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-![htmlindex](https://user-images.githubusercontent.com/98779723/160773026-3516ab65-70be-4601-9189-9eaec50518a0.PNG)
-
+![htmlindex](https://user-images.githubusercontent.com/98779723/161046706-8779e915-2669-4dc7-b2a9-c41228773c75.PNG)
 </details>
 <details><summary>Gallery</summary>
-![htmlgallery](https://user-images.githubusercontent.com/98779723/160773053-c8dfa194-b28d-4ab5-b1ed-dfb37edeed01.PNG)
-
+![htmlgallery](https://user-images.githubusercontent.com/98779723/161046736-bf491f6a-032e-418f-9762-0a398dd2e74c.PNG)
 </details>
 <details><summary>Treatment</summary>    
-![htmltreat](https://user-images.githubusercontent.com/98779723/160773088-31d4a04e-771c-411b-8453-56133ed7c2f6.PNG)
-
+![htmltreat](https://user-images.githubusercontent.com/98779723/161046770-7bb7683b-31de-449f-bbec-e71d025399f1.PNG)
 </details>
 <details><summary>Contact</summary>
-![html contact](https://user-images.githubusercontent.com/98779723/160773113-867049b2-59bc-458a-992c-ec97f6731cd8.PNG)
-
+![html contact](https://user-images.githubusercontent.com/98779723/161046797-804f09fa-d4f5-4e0a-a056-7863b130dd4d.PNG)
 </details>
 
 ### CSS Validation
