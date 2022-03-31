@@ -334,7 +334,7 @@ footer>span {
     height: 300px;
     background-color: #a68572;
     padding-top: 50px;
-    padding: auto;
+
 }
 
 #error h1 {
@@ -413,6 +413,15 @@ footer>span {
 
     #contact-outer {
         height: 400px;
+    }
+
+    #error h1 {
+        font-size: 200%;
+    }
+
+    #error a {
+        font-size: 200%;
+        color: inherit;
     }
 }
 
