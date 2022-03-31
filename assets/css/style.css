@@ -445,10 +445,7 @@ footer>span {
 
     /* treatment */
 
-    #treat {
-        display: flexbox;
-        padding: 0;
-    }
+
 
     .tr-box {
         font-size: 80%;
