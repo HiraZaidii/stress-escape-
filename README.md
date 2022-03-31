@@ -168,6 +168,7 @@ The website consists of 4 separate pages:
 - Adobe Color
 - Font Awsome
 - Favicon
+- Cloudconvert
 
 ## Features
 The page consists of 4 pages and 8 features
@@ -470,6 +471,7 @@ The website was tested on the following browsers:
 | ----------- | ----------- |
 | Sign up form does not look on smaller devices | Change display to none as without a background looks clear on smaller devices |
 | Navbar divides into two rows on smaller screen | Add media query to display in list
+| Gallery was not loading on IOS devices | changed images of avif format to jpg
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
