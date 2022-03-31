@@ -327,6 +327,21 @@ footer>span {
     text-align: center;
 }
 
+/* 404 page not found */
+
+#error {
+    float: none;
+}
+
+#error h1 {
+    text-transform: capitalize;
+    font-size: 400%;
+}
+
+#error a {
+    font-size: 400%;
+}
+
 @media (max-width: 1095px)
 
 /*index page*/
