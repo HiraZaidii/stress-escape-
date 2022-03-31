@@ -375,6 +375,25 @@ footer>span {
         list-style: none;
         float: none;
     }
+
+    #stress-image {
+        height: 400px;
+
+    }
+
+    #stress-outer {
+        height: 400px;
+    }
+
+    /*contact*/
+
+    #contact-image {
+        height: 400px;
+    }
+
+    #contact-outer {
+        height: 400px;
+    }
 }
 
 @media (max-width: 660px) {
@@ -406,12 +425,12 @@ footer>span {
     }
 
     #stress-image {
-        height: 400px;
+        height: 200px;
 
     }
 
     #stress-outer {
-        height: 400px;
+        height: 200px;
     }
 
     /*contact*/
@@ -482,13 +501,6 @@ footer>span {
         font-size: 80%;
     }
 
-    #stress-image {
-        height: 200px;
-    }
-
-    #stress-outer {
-        height: 200px;
-    }
 
     /* treatment */
     #treat {
