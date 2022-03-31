@@ -466,6 +466,7 @@ The website was tested on the following browsers:
 </details>
 
 14. As the site owner, I want the users to be able to see header and footer in case of 404 error
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Error page 404| change link to main page to show error | See error page | Works as expected |
