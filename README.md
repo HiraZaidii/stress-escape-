@@ -304,8 +304,7 @@ The website was tested on the following browsers:
 | Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
 
 <details><summary>Screenshots</summary>
-![story9](https://user-images.githubusercontent.com/98779723/160803606-101134b8-4e02-43e2-9730-2413682d97b3.PNG)
-
+<img src="docs/userstories/story1.PNG">
 </details>
 2. As a first time user, I want to know about the treatments
 
@@ -314,9 +313,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected |
 
 <details><summary>Screenshots</summary>
-
-![story2](https://user-images.githubusercontent.com/98779723/160803650-7784e8b2-7199-4d54-a046-9a185c3b6c23.PNG)
-
+<img src="docs/userstories/story2.PNG">
 </details>
 
 3. As a first time user, I want to know more about clinic
@@ -327,9 +324,7 @@ The website was tested on the following browsers:
 | Gallery | Click on Gallery in menu bar | View clinic images | Works as expected | 
 
 <details><summary>Screenshots</summary>
-![story3](https://user-images.githubusercontent.com/98779723/160803718-0dd39bb0-e46a-4b05-9546-23ae47e58903.PNG)
-![story1](https://user-images.githubusercontent.com/98779723/160803723-79fe8bc8-2d50-4848-b7a8-08bd9578cfbc.PNG)
-
+<img src="docs/userstories/story3.PNG">
 </details>
 
 4. As a first time user, I want to get an impression of what the clinic looks like
@@ -339,10 +334,8 @@ The website was tested on the following browsers:
 | Gallery | Click on Gallery in menu bar | View clinic images | Works as expected | 
 
 <details><summary>Screenshots</summary>
-
-![story3](https://user-images.githubusercontent.com/98779723/160803780-062dcb2c-b4a2-4cc9-8d90-e575a3978157.PNG)
-![story1](https://user-images.githubusercontent.com/98779723/160803782-3699c02b-378b-41c9-8fb0-0283fc247a69.PNG)
-
+<img src="docs/userstories/story3.PNG">
+<img src="docs/userstories/story1.PNG">
 </details>
 
 5. As a first time user, I want to be able to sign up for the clinic
@@ -353,8 +346,7 @@ The website was tested on the following browsers:
 | Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![story5](https://user-images.githubusercontent.com/98779723/160803825-c2ba9587-8136-40f3-937e-baa89942c8e8.PNG)
-
+<img src="docs/userstories/story5.PNG">
 </details>
 
 6. As a returning user, I want to know the opening times
@@ -364,8 +356,7 @@ The website was tested on the following browsers:
 | Footer - opening times section | Scroll to the footer from any page | See opening times | Works as expected |
 
 <details><summary>Screenshots</summary>
-![story6](https://user-images.githubusercontent.com/98779723/160803993-c7f1092a-11df-42c1-a5a8-1ba7b4c0c057.PNG)
-
+<img src="docs/userstories/story6.PNG">
 </details>
 
 7. As a returning user, I want to find a phone number to call for information
@@ -376,8 +367,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Screenshots</summary>
-![story7](https://user-images.githubusercontent.com/98779723/160804058-7adbf06b-c63b-4134-b656-deeb0d04c90d.PNG)
-
+<img src="docs/userstories/story7.PNG">
 </details>
 
 8. As a returning user, I want to see the treatments
@@ -387,8 +377,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected ||
 
 <details><summary>Screenshots</summary>
-![story2](https://user-images.githubusercontent.com/98779723/160804117-909fe6bc-0b9f-4fbc-a337-73f59a148b02.PNG)
-
+<img src="docs/userstories/story2.PNG">
 </details>
 
 9. As a returning user, I want to be able to sign up 
@@ -398,8 +387,7 @@ The website was tested on the following browsers:
 | Form | Click on Contact on the menu bar | Fill in Sign Up Form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![story5](https://user-images.githubusercontent.com/98779723/160804182-34cfaab1-8edc-4943-a62b-e43b749aad41.PNG)
-
+<img src="docs/userstories/story5.PNG">
 </details>
 
 10. As a returning user, I want to find the clinic on social media
@@ -409,8 +397,7 @@ The website was tested on the following browsers:
 | Footer  | Scroll down on any page | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-![story8](https://user-images.githubusercontent.com/98779723/160802830-536989db-143a-429a-a34a-9ec663654a9c.PNG)
-
+<img src="docs/userstories/story8.PNG">
 </details>
 
 11. As the site owner, I want users to read about what we have to offer
@@ -422,8 +409,7 @@ The website was tested on the following browsers:
 
 <details>
 <summary>Screenshots</summary>
-![story2](https://user-images.githubusercontent.com/98779723/160803254-6f2b763a-328a-4b7a-8cc7-813d53030d41.PNG)
-
+<img src="docs/userstories/story2.PNG">
 </details>
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -431,10 +417,7 @@ The website was tested on the following browsers:
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected |
 
 <details><summary>Screenshots</summary>
-
-![story8](https://user-images.githubusercontent.com/98779723/160804312-052cec3b-11d9-4464-bcc5-eb1aae8036da.PNG)
-
-
+<img src="docs/userstories/story8.PNG">
 </details>
 
 13. As the site owner, I want the users to be able to contact us and be able to see our location and opening times
@@ -446,9 +429,7 @@ The website was tested on the following browsers:
 | Footer - contact information section | On any page scroll down to the footer | Find the address | Works as expected |
 
 <details><summary>Screenshots</summary>
-
-![story9](https://user-images.githubusercontent.com/98779723/160803158-28c2150a-5905-4b1a-8f34-7f79a8165193.PNG)
-
+<img src="docs/userstories/story9.PNG">
 </details>
 
 14. As the site owner, I want the users to be able to see header and footer in case of 404 error
@@ -458,10 +439,7 @@ The website was tested on the following browsers:
 | Error page 404| change link to main page to show error | See error page | Works as expected |
 
 <details><summary>Screenshots</summary>
-
-![story10](https://user-images.githubusercontent.com/98779723/161046067-d45d7c6c-961a-4f89-a545-2c1221e2be5c.PNG)
-
-
+<img src="docs/userstories/story10.PNG">
 </details>
 
 ## Bugs
