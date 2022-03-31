@@ -472,6 +472,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 
+![story10](https://user-images.githubusercontent.com/98779723/161046067-d45d7c6c-961a-4f89-a545-2c1221e2be5c.PNG)
 
 
 </details>
