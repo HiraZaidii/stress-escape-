@@ -509,6 +509,15 @@ footer>span {
 
 }
 
+@media (max-width: 360px) {
+
+    #info-box2,
+    #info-box1 {
+        height: 600px;
+        font-size: 135%;
+    }
+}
+
 
 /* for devices such as iphone 5*/
 @media (max-width: 320px) {
