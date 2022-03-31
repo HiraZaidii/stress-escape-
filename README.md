@@ -281,7 +281,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 </details>
 <details><summary>Gallery</summary>
-![lhgallery](https://user-images.githubusercontent.com/98779723/160773544-9007d25e-bfce-44ff-9ce8-211f19a0ce79.PNG)
+![lhtreat](https://user-images.githubusercontent.com/98779723/160997313-6ec0c2af-9869-470a-bd9d-9e4c8138d18c.PNG)
 
 </details>
 <details><summary>Treatment</summary>
