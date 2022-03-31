@@ -440,8 +440,8 @@ The website was tested on the following browsers:
 
 </details>
 
-12. As the site owner, I want users to know the different type of treatments
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
 | Menu | Navigate to Treatments | Read info about treatments | Works as expected |
 
 <details><summary>Screenshots</summary>
