@@ -4,7 +4,7 @@
 ![Mock up image](https://user-images.githubusercontent.com/98779723/160789958-2d5e3a3d-af03-4cac-8c71-74888cc2ad18.PNG)
 
 
-[Live webpage]
+[Live webpage](https://hirazaidii.github.io/stress-escape-/)
 
 ## Table of Content
 
