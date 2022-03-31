@@ -339,11 +339,11 @@ footer>span {
 
 #error h1 {
     text-transform: capitalize;
-    font-size: 400%;
+    font-size: 350%;
 }
 
 #error a {
-    font-size: 400%;
+    font-size: 350%;
     color: inherit;
 }
 
