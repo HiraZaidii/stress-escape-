@@ -231,64 +231,54 @@ The page consists of 4 pages and 8 features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-![htmlindex](https://user-images.githubusercontent.com/98779723/161046706-8779e915-2669-4dc7-b2a9-c41228773c75.PNG)
+<img src="docs/validating/htmlindex.PNG">
 </details>
 <details><summary>Gallery</summary>
-![htmlgallery](https://user-images.githubusercontent.com/98779723/161046736-bf491f6a-032e-418f-9762-0a398dd2e74c.PNG)
+<img src="docs/validating/htmlgallery.PNG">
 </details>
 <details><summary>Treatment</summary>    
-![htmltreat](https://user-images.githubusercontent.com/98779723/161046770-7bb7683b-31de-449f-bbec-e71d025399f1.PNG)
+<img src="docs/validating/htmltreat.PNG">
 </details>
 <details><summary>Contact</summary>
-![html contact](https://user-images.githubusercontent.com/98779723/161046797-804f09fa-d4f5-4e0a-a056-7863b130dd4d.PNG)
+<img src="docs/validating/htmlcontact.PNG">
 </details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 <details><summary>style.css</summary>
-![cssjigsaw](https://user-images.githubusercontent.com/98779723/160773318-48e23713-fa54-4a1a-a6e6-c276f14b7984.PNG)
-
+<img src="docs/validating/cssjigsaw.PNG">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-![waveindex](https://user-images.githubusercontent.com/98779723/160773391-3ecacb1f-991d-424c-9be1-113ad67b5f4c.PNG)
-
+<img src="docs/validating/waveindex.PNG">
 </details>
 <details><summary>Gallery</summary>
-![wavegallery](https://user-images.githubusercontent.com/98779723/160773418-76123761-2f11-4746-ae14-18d76522b4d3.PNG)
-
+<img src="docs/validating/wavegallery.PNG">
 </details>
 <details><summary>Treatment</summary>
-![wavetreat](https://user-images.githubusercontent.com/98779723/160773442-0677920c-d006-4ab5-9aa6-8d54f841d6ee.PNG)
-
+<img src="docs/validating/wavetreat.PNG">
 </details>
 <details><summary>Contact</summary>
-![wavecontact](https://user-images.githubusercontent.com/98779723/160773451-f0ba124c-262b-46fe-955c-b9cee6a2aca7.PNG)
-
+<img src="docs/validating/wavecontact.PNG">
 </details>
 
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-![lhhome](https://user-images.githubusercontent.com/98779723/160773488-2fdaf42a-29c2-4335-ab55-8c3b45f1c173.PNG)
-
+<img src="docs/validating/lhhome.PNG">
 </details>
 <details><summary>Gallery</summary>
-![lhtreat](https://user-images.githubusercontent.com/98779723/160997313-6ec0c2af-9869-470a-bd9d-9e4c8138d18c.PNG)
-
+<img src="docs/validating/lhgallery.PNG">
 </details>
 <details><summary>Treatment</summary>
-    
-![lhtreat](https://user-images.githubusercontent.com/98779723/160801421-71df8e17-c16f-432d-991f-5364ebeeec59.PNG)
-
+<img src="docs/validating/lhtreat.PNG">
 </details>
 
 <details><summary>Contact</summary>
-![lhcontact](https://user-images.githubusercontent.com/98779723/160773557-4f75cd0e-d180-4ab3-8c66-ed73b85b250e.PNG)
-
+<img src="docs/validating/lhcontact.PNG">
 </details>
 
 ### Performing tests on various devices 
