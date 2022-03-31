@@ -331,8 +331,10 @@ footer>span {
 
 #error {
     width: 100%;
-    height: 200px;
-    background-color: #fff;
+    height: 300px;
+    background-color: #a68572;
+    padding-top: 50px;
+    padding: auto;
 }
 
 #error h1 {
@@ -342,7 +344,7 @@ footer>span {
 
 #error a {
     font-size: 400%;
-    color: black;
+    color: inherit;
 }
 
 @media (max-width: 1095px)
